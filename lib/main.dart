@@ -46,7 +46,7 @@ class _MyAppState extends State {
       ]
     },
     {
-      "questionText": "At what time?",
+      "questionText": "Select the time slot",
       "answers": [
         {"text": "08:00 - 09:00", "score": 1},
         {"text": "09:00 - 10:00", "score": 2},
