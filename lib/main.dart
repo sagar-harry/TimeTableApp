@@ -36,7 +36,7 @@ class _MyAppState extends State {
 
   final _questions = const [
     {
-      "questionText": "Select a day",
+      "questionText": "Select a day of the week",
       "answers": [
         {"text": "Monday", "score": 0},
         {"text": "Tuesday", "score": 3},
